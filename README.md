@@ -1,0 +1,2 @@
+# FXC
+Forex coin
